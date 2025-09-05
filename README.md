@@ -119,4 +119,19 @@ and numerical indicators.
 ○  ThingSpeak logs historical data, allowing users to review trends and analyze 
 voltage fluctuations over time.
 
+Plots
+
+<img width="571" height="437" alt="image" src="https://github.com/user-attachments/assets/d0b8c7aa-db3d-47ef-9a3b-e30f59582c67" />
+
+<img width="567" height="912" alt="image" src="https://github.com/user-attachments/assets/336d0ad9-6736-4dae-9922-6c1a66ff31f8" />
+
+Conclusion: 
+
+The Under-Voltage and Over-Voltage Protection System with ThingSpeak enhances safety by 
+enabling real-time local monitoring (LabVIEW) and remote monitoring (ThingSpeak cloud). The 
+integration of Arduino, LabVIEW, and ThingSpeak ensures that users can track voltage levels 
+from anywhere, while automated relay control protects connected devices from unsafe voltage 
+levels. 
+
+
 
