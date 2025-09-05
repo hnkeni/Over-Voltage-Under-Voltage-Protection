@@ -134,5 +134,10 @@ from anywhere, while automated relay control protects connected devices from uns
 levels. 
 
 
+Project Report
+
+[UV_OV-Protection 1.pdf](https://github.com/user-attachments/files/22173878/UV_OV-Protection.1.pdf)
+
+
 
 
